@@ -1,10 +1,5 @@
-# Yu LUO's page
+# Contact information
 
-My name is Yu LUO, you can call me Joey. 
+# Research
 
-## Contact Information
-haha
-
-## Research
-
-lala
+lalal
