@@ -1,4 +1,4 @@
-# Math240 Discrete Math
+# Math/CS 240 Discrete Math
 
 All content is on Canvas, including
 * Syllabus
