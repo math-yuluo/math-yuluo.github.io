@@ -24,9 +24,10 @@ Under construction
 
 
 ## More Information
-### [Seminar Talks](Talks.md)
-### [Services](Services.md)
-### [Teaching](Teach.md)
+ [Seminar Talks](Talks.md)<br />
+ [Services](Services.md)<br />
+ [Teaching](Teach.md)
+
 **2022 Summer** <br />
 **Office Hour:** Monday 9:00-11:00 am <br />
 You can reach me in Room 518, Van Vleck Hall.  <br />
