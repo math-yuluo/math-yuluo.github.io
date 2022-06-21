@@ -25,4 +25,15 @@ Zoom link:  https://uwmadison.zoom.us/j/92890284605?pwd=SWdxSDk2anhDc25SZ1ZHbmVT
 
 You can't reach me in Room 518, Van Vleck Hall.  <br />
 
+## Math Helping Center
+All tutoring will be June 21 - August 10 (closed on July 3 and July 4)
 
+Mondays 7:00 – 9:00 pm https://uwmadison.zoom.us/j/92088633297 <br />
+Tuesdays 6:30 – 8:30 pm https://uwmadison.zoom.us/j/98003268044 <br />
+In-person: Sun – Wed from 4:00 – 7:00 pm in Van Vleck B224
+
+## Lecture
+Zoom link: https://uwmadison.zoom.us/j/99131891545?pwd=Sklpd2JhNUtIRnVsVXlpZjhyWHlnZz09 (Links to an external site.)
+
+Meeting ID: 991 3189 1545
+Passcode: 174126

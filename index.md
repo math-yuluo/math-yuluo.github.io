@@ -31,4 +31,4 @@ Under construction
 ## [2022 Summer Math/CS 240 Discrete Math](2022_Summer/2022_Summer.md)
 
 
-The page is still under construction.
+This page is still under construction.
