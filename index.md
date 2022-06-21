@@ -26,8 +26,6 @@ Under construction
 ## More Information
  [Seminar Talks](Talks.md)<br />
  [Services](Services.md)<br />
- [Teaching](Teach.md)
+ [Teaching](Teach.md)<br />
 
-**2022 Summer** <br />
-**Office Hour:** Monday 9:00-11:00 am <br />
-You can reach me in Room 518, Van Vleck Hall.  <br />
+## [2022 Summer Math/CS 240 Discrete Math](2022_Summer/2022_Summer.md)
