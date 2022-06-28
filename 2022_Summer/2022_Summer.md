@@ -10,9 +10,15 @@ All content is on Canvas, including
 [June 27](2_1.pdf)
 
 ### Week 1
+
 [June 23](1_2.pdf), [Note](1_2_note.pdf)
 
 [June 21](1_1.pdf), [Note](1_1_note.pdf)
+
+## Hand Writing Homework
+
+Week 1: 3,5,7 and 8 were graded.
+
 
 ## Discussion Session
 Zoom link: https://uwmadison.zoom.us/j/96258087033?pwd=RUZSTCtHTnZ5U0RyMWEreVBaUEkvZz09
