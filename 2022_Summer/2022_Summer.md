@@ -6,10 +6,13 @@ All content is on Canvas, including
 * Worksheet solutions (posted in the end of the week)
 
 ## Worksheets
-### Week 1
-[June 21](1_1.pdf), [Note](1_1_note.pdf)
+### Week 2
+[June 27](2_1.pdf)
 
+### Week 1
 [June 23](1_2.pdf), [Note](1_2_note.pdf)
+
+[June 21](1_1.pdf), [Note](1_1_note.pdf)
 
 ## Discussion Session
 Zoom link: https://uwmadison.zoom.us/j/96258087033?pwd=RUZSTCtHTnZ5U0RyMWEreVBaUEkvZz09
