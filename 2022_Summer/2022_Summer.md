@@ -6,8 +6,15 @@ All content is on Canvas, including
 * Worksheet solutions (posted in the end of the week)
 
 ## Worksheets
+
+<!-- 这是一段被注释掉的文字 -->
+
+
+
 ### Week 2
-[June 27](2_1.pdf)
+[June 30](2_2.pdf), <!-- [Note](2_2_note.pdf) --> 
+
+[June 27](2_1.pdf), [Note](2_1_note.pdf)
 
 ### Week 1
 
