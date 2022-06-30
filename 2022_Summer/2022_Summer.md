@@ -7,12 +7,50 @@ All content is on Canvas, including
 
 ## Worksheets
 
-<!-- 这是一段被注释掉的文字 -->
+<!--
+
+### Week 8
+[Aug 9](8_2.pdf), [Note](8_2_note.pdf)
+
+[Aug 11](8_1.pdf), [Note](8_1_note.pdf)
+
+
+### Week 7
+[Aug 2](7_2.pdf), [Note](7_2_note.pdf)
+
+[Aug 4](7_1.pdf), [Note](7_1_note.pdf)
+
+
+
+### Week 6
+[July 26](6_2.pdf), [Note](6_2_note.pdf)
+
+[July 28](6_1.pdf), [Note](6_1_note.pdf)
+
+
+
+### Week 5
+[July 19](5_2.pdf), [Note](5_2_note.pdf)
+
+[July 21](5_1.pdf), [Note](5_1_note.pdf)
+
+
+### Week 4
+[July 12](4_2.pdf), [Note](4_2_note.pdf)
+
+[July 14](4_1.pdf), [Note](4_1_note.pdf)
+
+
+### Week 3
+[July 5](3_2.pdf), [Note](3_2_note.pdf)
+
+[July 7](3_1.pdf), [Note](3_1_note.pdf)
+-->
 
 
 
 ### Week 2
-[June 30](2_2.pdf), <!-- [Note](2_2_note.pdf) --> 
+[June 30](2_2.pdf), [Note](2_2_note.pdf)
 
 [June 27](2_1.pdf), [Note](2_1_note.pdf)
 
@@ -37,9 +75,11 @@ Passcode: 918075
 
 ## Office Hour 
 Monday 9:00-11:00 am <br />
-Zoom link:  https://uwmadison.zoom.us/j/92890284605?pwd=SWdxSDk2anhDc25SZ1ZHbmVTODRGQT09 (Links to an external site.) 
 
-You can't reach me in Room 518, Van Vleck Hall.  <br />
+The office hour will be in person at my office: Room 518, Van Vleck Hall <br />
+
+If you want a virtual office hour, please send me an email and make an appointment, or you can go to other [TA's office hour](https://canvas.wisc.edu/courses/301808/pages/lecture-discussion-and-office-hour-zoom-links?module_item_id=5045409)
+
 
 ## Math Helping Center
 All tutoring will be June 21 - August 10 (closed on July 3 and July 4)
