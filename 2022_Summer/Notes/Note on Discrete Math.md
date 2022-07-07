@@ -277,12 +277,161 @@ Disjoint, partition.
 
 ## Definition of functions
 
+Domain, target (co-domain)
+
+
+Arrow diagram if domain is finite sets.
+
+Range
+
+
+
 ## Floor and ceiling functions
+
+Floor function: 不大于x的最大整数
+
+Ceiling function: 不小于x的最小整数
 
 ## Properties of functions
 
+one-to-one injective
+
+onto surjective
+
+bijective, bijection, one-to-one correspondence
+
+
 ## The inverse of a function
+
+
 
 ## Composition of functions
 
+
+
 ## Logarithms and exponents
+
+$b^x$: b: base of the exponent, x: exponent.
+
+$\log_b(x)$, b: base of the logarithm
+
+
+# Boolean Algebra
+
+## An inratroduction to Boolean algebra
+
+Boolean addition: $1+1=1$. 对应 $T\vee T=T$, 其他都是正常的运算.
+
+<img src="5_1.png" alt="5_1.png" width="900"/>
+
+
+## Boolean functions
+
+
+
+
+## Disjunctive and conjunctive normal form
+
+Disjunctive normal form (DNF): 
+<img src="5_3_1.png" alt="5_3_1.png" width="900"/>
+
+Conjunctive normal form (CNF):
+<img src="5_3_2.png" alt="5_3_2.png" width="900"/>
+
+clause: 分句
+
+
+## Functional completeness
+
+Here is a method to express an arbitrary Boolean function using only multiplication and complement operations:
+
+Start with the input/output table for the function.
+
+Find a DNF expression that is equivalent to the function.
+
+Repeatedly apply De Morgan's law to eliminate each addition operation.
+
+
+如果使用 NAND 或者 NOR，我们可以只用一个operation来描述所有的expression
+
+<img src="5_4_1.png" alt="5_4_1.png" width="900"/>
+
+<img src="5_4_2.png" alt="5_4_2.png" width="900"/>
+
+## Boolean satisfiability
+
+The Boolean satisfiability problem (called SAT for short): 看函数能不能取到1
+
+If there is a way to set the input variables that causes a Boolean expression to evaluate to 1, then the expression is said to be satisfiable. Otherwise, the expression is unsatisfiable. A particular assignment of values to the variables satisfies a Boolean expression if the assignment causes the expression to evaluate to 1.
+
+转换成 DNF 和 CNF 之后可以更系统的了解是否满足。
+
+课程安排问题：
+
+<img src="5_5_1.png" alt="5_5_1.png" width="900"/>
+
+## Gates and circuits
+
+门与电路
+gate:门，circuits：电路
+
+<img src="5_6_1.png" alt="5_6_1.png" width="900"/>
+
+# Relations/Digraphs
+
+## Introduciton to binary relations
+
+self-loop
+
+
+## Properties of binary relations
+
+Refiexive: 自反, anti-reflexive: 没有任何自反
+
+Symmetric, anti-symmetric,
+
+Transitive
+
+
+
+## Directed graphs, paths, and cycles
+
+<img src="6_3_1.png" alt="6_3_1.png" width="900"/>
+
+
+Walk, length of a walk, open walk, closed walk.
+
+
+A trail is an open walk in which no edge occurs more than once.
+没有边重复
+
+A circuit is a closed walk in which no edge occurs more than once.
+没有边重复
+
+A path is a trail in which no vertex occurs more than once.
+没有顶点重复
+
+A cycle is a circuit of length at least 1 in which no vertex occurs more than once, except the first and last vertices which are the same.
+除了自己外没有顶点重复
+
+
+
+
+## Composition of relations
+
+## Graph powers and the transitive closure
+
+$R$ -> $R^k$, kth power of G
+
+
+## Matrix multiplication and graph powers
+
+
+
+## Partial orders
+
+## Strict orders and directed acyclic graphs
+
+## Equivalence relations
+
+## N-ary relations and relational datebases
