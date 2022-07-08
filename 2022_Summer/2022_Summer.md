@@ -71,7 +71,7 @@ Passcode: 918075
 [Add to you calendar](https://uwmadison.zoom.us/meeting/tJIvcuGopjwqGdfIegdePhoNCPM3SoHkdBvG/ics?icsToken=98tyKuCurD4iGtySsBqERowAAI_4WfTxiGZfjadbtRriByVjagzYFdJvYYFwONPU)
 
 ## Office Hour 
-Monday 9:00-11:00 am <br />
+Wed. 9:00-11:00 am <br />
 
 The office hour will be in person at my office: Room 518, Van Vleck Hall <br />
 
