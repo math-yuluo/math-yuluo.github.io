@@ -430,8 +430,87 @@ $R$ -> $R^k$, kth power of G
 
 ## Partial orders
 
+partially ordered set, poset: reflexive, transitive and anti-symmeetric
+偏序集
+
+
 ## Strict orders and directed acyclic graphs
+
+strict order: transitive and anti-reflexive
+
+comparable, incomparable.
+
+Total order, minimal, maximal
+
+A **directed acyclic graph** or (DAG) is a directed graph that has no cycles.
 
 ## Equivalence relations
 
+
+reflexive, symmetric and transitive
+
+equivalent class, partition.
+
 ## N-ary relations and relational datebases
+
+
+
+
+# Computation
+
+## An introduction to algorithms
+
+A description of an algorithm usually includes:
+
+A name for the algorithm
+A brief description of the task performed by the algorithm
+A description of the input
+A description of the output
+A sequence of steps to follow
+
+
+An important type of step in an algorithm is an **assignment**, in which a variable is given a value.
+
+
+The output of an algorithm is specified by a **return** statement.
+
+
+**If-statement**
+
+**If-else-statement**
+
+<img src="7_1_1.png" alt="7_1_1.jpg" width="900"/>
+
+
+
+**For-loop**
+
+For ... to ...: index. Iteration
+
+<img src="7_1_2.png" alt="7_1_2.png" width="900"/>
+
+
+**While-loop**
+
+
+<img src="7_1_3.png" alt="7_1_3.png" width="900"/>
+
+
+
+**Nested loop**
+
+
+
+
+
+## Asymptotic growth of functions
+
+
+## Analysis of algorithms
+
+
+## Finite state machines
+
+## Turing machines
+
+## Decision problems and languages
