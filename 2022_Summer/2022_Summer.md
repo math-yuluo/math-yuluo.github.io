@@ -42,6 +42,9 @@ All content is on Canvas, including
 
 -->
 
+[July 12](4_1.pdf), [Note](4_1_note.pdf)
+
+
 ### Week 3
 
 [July 7](3_1.pdf), [Note](3_1_note.pdf)

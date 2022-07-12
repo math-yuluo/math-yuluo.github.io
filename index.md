@@ -8,6 +8,7 @@
 My name is Yu LUO, you can call me Joey. 
 I'm a second year math graduate student at UW-Madison. Before that, I finish my undergraduate in Zhejiang University. <br />
 **E-mail:** yluo237@wisc.edu <br />
+**Office:** Room 518 Van Vleck Hall <br />
 My research interest lies in arithmetic algebraic geometry.
 
 Here is my [Curriculum Vitae](cv/yuluo_cv.pdf)
