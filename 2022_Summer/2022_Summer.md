@@ -35,12 +35,11 @@ All content is on Canvas, including
 [July 21](5_1.pdf), [Note](5_1_note.pdf)
 
 
-### Week 4
-[July 12](4_2.pdf), [Note](4_2_note.pdf)
-
-[July 14](4_1.pdf), [Note](4_1_note.pdf)
-
 -->
+
+### Week 4
+
+[July 14](4_2.pdf), [Note](4_2_note.pdf)
 
 [July 12](4_1.pdf), [Note](4_1_note.pdf)
 
