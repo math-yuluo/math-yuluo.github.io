@@ -514,3 +514,83 @@ For ... to ...: index. Iteration
 ## Turing machines
 
 ## Decision problems and languages
+
+
+
+
+# Induction and Recursion
+
+## Sequences
+
+Term, index
+
+initial index, final index, initial term, final term, infinite sequence, explicit formula
+
+
+geometric sequencve, common ratio
+
+arithmetic sequence, common difference
+
+## Recurrence relations
+
+recurrence relation: 迭代关系
+
+Fibonacci sequence
+
+Discrete time dynamical system
+
+
+
+
+## Summations
+
+summation notation, index, lower limit, upper limit
+
+summation form: 求和形式
+
+expanded form: 展开形式
+
+closed form: 直接把求和算出来
+
+## Mathematical induction
+
+base case
+
+inductive step
+
+principle of mathematical induction
+
+inductive hypothesis
+
+## More inductive proofs
+
+Divisibility proof by induction
+
+Using induction to prove an assertion about a recurrence relation
+
+inductive proofs showing the closed forms for sums of arithmetic and geometric sequences
+
+An inductive proof for set operations
+
+
+## Strong induction and well-ordering
+
+## Loop invariants
+
+## Recursive definition
+
+## Structual induction
+
+## Recursive algorithms
+
+## Induction and recursive algorithms
+
+## Analyzing the time complexity of recursive algorithmes
+
+## Dive-and-conquer algotithms: introduction and mergesort
+
+## Solving linear homogeneous recurrence relations
+
+## Solving linear non-homogeneous recurrence relations
+
+## Divide-and-conquer recurrence relations
