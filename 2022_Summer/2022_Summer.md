@@ -22,20 +22,16 @@ All content is on Canvas, including
 
 
 
-### Week 6
-[July 26](6_2.pdf), [Note](6_2_note.pdf)
-
-[July 28](6_1.pdf), [Note](6_1_note.pdf)
 
 
 
-### Week 5
-[July 19](5_2.pdf), [Note](5_2_note.pdf)
-
-[July 21](5_1.pdf), [Note](5_1_note.pdf)
 
 
 -->
+
+### Week 6
+[July 28](6_1.pdf), [Note](6_1_note.pdf)
+
 
 ### Week 5
 [July 19](5_1.pdf), [Note](5_1_note.pdf)
